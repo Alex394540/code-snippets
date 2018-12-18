@@ -22,11 +22,6 @@ from helpers import get_extensions, create_folder, \
 """
 Small program for providing code snippets with specific class/function usage.
 All examples are taken from github.com.
-
-If you have notices some bug, or want to propose some improvements, write me:
-Facebook - https://www.facebook.com/megleyalex
-Vk       - https://vk.com/megley
-Gmail    - alibaba394540@gmail.com
 """
 
 __author__ = "Megley Alexey"
